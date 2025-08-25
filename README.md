@@ -10,7 +10,7 @@ It shows a French word, allows you to flip the card to see its English translati
 - [🚀 Usage](#-usage)
 - [⚙️ Installation](#️-installation)
 - [🧠 Summary](#-summary)
-- [📜 License](#-license)
+- [📖 License](#license) 
 
 ## ✨ Features
 - 🎴 Flashcards with **French word on the front** and **English translation on the back**  
