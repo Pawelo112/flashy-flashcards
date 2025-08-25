@@ -82,3 +82,7 @@ the dictionaries keys in the  main code and app will do the rest:
 - Show a random word on the front,
 - Let you flip it to see the translation\explanation,
 - Keep track of which ones you’ve learned by saving them to `data/words_to_learn.csv`.
+
+## 📖License
+Copyright © 2025 [Paweł Marcinkowski](https://github.com/Pawelo112).  
+This project is [MIT](https://github.com/Pawelo112/flashy-flashcards/blob/main/LICENSE) licensed.
