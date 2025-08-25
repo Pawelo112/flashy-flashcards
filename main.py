@@ -9,9 +9,9 @@ window.title("Flashy")
 window.config(padx=50, pady=50, background=BACKGROUND_COLOR)
 
 # Canvas - Flashcard
-canvas = Canvas(width=800, height=526, highlightthickness=0)
+canvas = Canvas(width=800, height=526, bg=BACKGROUND_COLOR, highlightthickness=0)
 flash_card_image = PhotoImage(file="images/card_front.png")
-canvas.create_image(400, 260, image=flash_card_image)
+canvas.create_image(400, 263, image=flash_card_image)
 # Flash Card text
 canvas.create_text(400, 150, text='French', font=('Ariel', 40, 'italic'))
 canvas.create_text(400, 263, text='trouve', font=('Ariel', 60, 'bold'))
